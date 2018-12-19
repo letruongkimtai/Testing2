@@ -7,6 +7,7 @@ namespace WebApplication1.Models
 {
     public class soemthing1
     {
-        public int soemthing1 { get; set; }
+        public int soemthing3 { get; set; }
+        public int soemthing2 { get; set; }
     }
 }
